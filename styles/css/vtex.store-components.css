@@ -14,7 +14,7 @@
 
 .infoCardCallActionContainer :global(.vtex-button) {
     color: white;
-    background-color: vintage;
+    background-color: gray;
     border: transparent;
 }
 
