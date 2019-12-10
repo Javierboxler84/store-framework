@@ -24,7 +24,8 @@
       "textAlignment": "center"
       }
     }
-  }  {
+  },
+    {
     "store.home": {
       "blocks": [
         "rich-text",
